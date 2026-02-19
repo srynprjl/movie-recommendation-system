@@ -1,0 +1,18 @@
+[project]
+name = "srynprjl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "altair==4",
+    "jupyterlab>=4.5.4",
+    "matplotlib>=3.10.8",
+    "nltk>=3.9.2",
+    "numpy>=2.4.2",
+    "pandas>=3.0.1",
+    "python-dotenv>=1.2.1",
+    "scikit-learn>=1.8.0",
+    "standard-imghdr>=3.13.0",
+    "streamlit>=1.19.0",
+]
